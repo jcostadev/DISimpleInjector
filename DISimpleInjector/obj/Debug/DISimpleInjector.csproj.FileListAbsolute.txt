@@ -1,0 +1,8 @@
+c:\users\jcosta\documents\visual studio 2015\Projects\DISimpleInjector\DISimpleInjector\bin\Debug\DISimpleInjector.exe.config
+c:\users\jcosta\documents\visual studio 2015\Projects\DISimpleInjector\DISimpleInjector\bin\Debug\DISimpleInjector.exe
+c:\users\jcosta\documents\visual studio 2015\Projects\DISimpleInjector\DISimpleInjector\bin\Debug\DISimpleInjector.pdb
+c:\users\jcosta\documents\visual studio 2015\Projects\DISimpleInjector\DISimpleInjector\bin\Debug\SimpleInjector.dll
+c:\users\jcosta\documents\visual studio 2015\Projects\DISimpleInjector\DISimpleInjector\bin\Debug\SimpleInjector.xml
+c:\users\jcosta\documents\visual studio 2015\Projects\DISimpleInjector\DISimpleInjector\obj\Debug\DISimpleInjector.csprojResolveAssemblyReference.cache
+c:\users\jcosta\documents\visual studio 2015\Projects\DISimpleInjector\DISimpleInjector\obj\Debug\DISimpleInjector.exe
+c:\users\jcosta\documents\visual studio 2015\Projects\DISimpleInjector\DISimpleInjector\obj\Debug\DISimpleInjector.pdb
